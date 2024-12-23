@@ -26,9 +26,10 @@ This repository is a collection of **weekly mini projects** developed using **Ja
 | Week | Project Name              | Description                                                               |
 | ---- | ------------------------- | ------------------------------------------------------------------------- |
 | 1    | Calculator App            | A simple console-based calculator supporting basic arithmetic operations. |
-| 2    | To-Do List Manager        | An application to add, remove, and track tasks efficiently.               |
-| 3    | Student Grade System      | A program to manage and compute student grades based on scores.           |
-| 4    | Library Management System | A mini database system to track books and users in a library.             |
+| 2    | Bank application          | A mini application that track user depost, withdraw operations            |
+| 3    | To-Do List Manager        | An application to add, remove, and track tasks efficiently.               |
+| 4    | Student Grade System      | A program to manage and compute student grades based on scores.           |
+| 5    | Library Management System | A mini database system to track books and users in a library.             |
 
 ---
 
