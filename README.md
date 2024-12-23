@@ -38,16 +38,6 @@ This repository is a collection of **weekly mini projects** developed using **Ja
    ```bash
    git clone https://github.com/yourusername/java-mini-projects.git
    ```
-2. Navigate to the desired project directory:
-   ```bash
-   cd Project-1
-   ```
-3. Compile and run the Java program:
-   ```bash
-   javac src/Main.java
-   java src/Main
-   ```
-
 ---
 
 ## 🌟 Goals
